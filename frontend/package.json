@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@vue/cli": "^5.0.4",
+    "ant-design-vue": "^3.2.2",
+    "vue": "^3.2.33"
+  }
+}
